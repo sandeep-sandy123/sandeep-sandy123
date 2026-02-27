@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-sandy123" alt="sandeep-sandy123" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [NA](NA)
+- 👨‍💻 All of my projects are available at 
 
 - 🛠️ Skills [SQL (MySQL) Python (Pandas, NumPy, Matplotlib) Power BI (DAX, Data Modeling) Excel (Advanced formulas, Pivot Tables, Dashboards)](SQL (MySQL) Python (Pandas, NumPy, Matplotlib) Power BI (DAX, Data Modeling) Excel (Advanced formulas, Pivot Tables, Dashboards))
 
