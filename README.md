@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm sheela datta sandeep</h1>
-<h3 align="center">A passionate frontend deAspiring Data Analyst | SQL | Power BI | Python | Excel I turn raw data into clear insights and business decisions. Currently focused on building real-world analytics projects and strengthening problem-solving skills.veloper from India</h3>
+<h3 align="center">Data Analyst | SQL · Python · Power BI Fresher | Open to opportunities | Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-sandy123&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-sandy123" /> </p>
 
