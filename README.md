@@ -17,10 +17,10 @@
 
 ## 🧑‍💼 About Me
 
-- 🎓 B.Sc. Computer Science — Aditya Degree College, Visakhapatnam (2025)
+- 🎓 B.Sc. Computer Science - Aditya Degree College, Visakhapatnam (2025)
 - 💼 Ex-Fraud Analyst @ WNS Global Services | Ex-Data Analyst Trainee @ Millennium Software Solutions
 - 📊 I build **end-to-end analytics projects** on real-world data  from raw CSV to business dashboards
-- 🔍 Specialised in **Customer Segmentation,  Fraud Detection,  CRM Analytics,  Business Intelligence**
+- 🔍 Specialised in **Customer Segmentation - Fraud Detection - CRM Analytics - Business Intelligence**
 - 📍 Based in Visakhapatnam | Open to relocate: **Hyderabad · Bengaluru · Chennai · Gurgaon**
 - 📬 Reach me: **sheeladattasandeep6@gmail.com**
 
@@ -53,7 +53,7 @@
 
 ## 📁 Featured Projects
 
-### 🏪 V Hangout Cafe  CRM & Sales Analytics Dashboard
+### 🏪 V Hangout Cafe - CRM & Sales Analytics Dashboard
 > **Tools:** SQL Server · Power BI · DAX · Power Query · Excel
 
 - Live operational data: **394 orders · 15 customers · 3 months** of daily sales
