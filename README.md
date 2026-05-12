@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Sheela Datta Sandeep 👋</h1>
 
 <h3 align="center">Data Analyst · SQL · Power BI · Python · Excel</h3>
@@ -22,7 +20,7 @@
 - 🎓 B.Sc. Computer Science — Aditya Degree College, Visakhapatnam (2025)
 - 💼 Ex-Fraud Analyst @ WNS Global Services | Ex-Data Analyst Trainee @ Millennium Software Solutions
 - 📊 I build **end-to-end analytics projects** on real-world data  from raw CSV to business dashboards
-- 🔍 Specialised in **Customer Segmentation  Fraud Detection  CRM Analytics  Business Intelligence**
+- 🔍 Specialised in **Customer Segmentation,  Fraud Detection,  CRM Analytics,  Business Intelligence**
 - 📍 Based in Visakhapatnam | Open to relocate: **Hyderabad · Bengaluru · Chennai · Gurgaon**
 - 📬 Reach me: **sheeladattasandeep6@gmail.com**
 
