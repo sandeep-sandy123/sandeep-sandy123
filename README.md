@@ -30,14 +30,14 @@ Role       : Data Analyst
 Location   : Visakhapatnam, India
 Open To    : Anywhere in India | Remote Welcome
 Joining    : Immediate Joiner
-Education  : B.Sc. Computer Science — Aditya Degree College (2025)
+Education  : B.Sc. Computer Science - Aditya Degree College (2025)
 Experience : Fraud Analyst @ WNS Global Services
              Data Analyst Trainee @ Millennium Software Solutions
 Projects   : 13 Real-World Analytics Projects
 Email      : sheeladattasandeep6@gmail.com
 ```
 
-> *"I don't just analyse data — I translate numbers into decisions businesses can act on."*
+> *"I don't just analyse data - I translate numbers into decisions businesses can act on."*
 
 ---
 
@@ -82,7 +82,7 @@ Email      : sheeladattasandeep6@gmail.com
 
 ## 🤖 AI-Augmented Workflow
 
-> I use AI tools to work faster — not to replace thinking.
+> I use AI tools to work faster - not to replace thinking.
 
 | Tool | How I Use It |
 |------|-------------|
@@ -281,7 +281,7 @@ Email      : sheeladattasandeep6@gmail.com
 
 | Role | Company | Duration | Key Achievement |
 |------|---------|----------|----------------|
-| 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 – Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
+| 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 - Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
 | 🔐 Fraud Analyst | WNS Global Services | Apr 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
 
 ---
