@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sheela%20Datta%20Sandeep&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python%20%C2%B7%20Excel&descAlignY=58&descSize=18&descColor=a0c4d8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:6d23b6,60:c0392b,100:00d4ff&height=220&section=header&text=Sheela%20Datta%20Sandeep&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python%20%C2%B7%20Excel&descAlignY=58&descSize=19&descColor=e0f7fa&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2C8&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;13+Real-World+Projects+%7C+541K%2B+Records+Processed;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;Immediate+Joiner+%7C+Open+to+Relocate+Anywhere+in+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;13+Real-World+Projects+%7C+541K%2B+Records+Processed;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;Immediate+Joiner+%7C+Open+to+Relocate+Anywhere+in+India" alt="Typing SVG" />
 
 <br/>
 
@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=sandeep-sandy123&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sandeep-sandy123&label=Profile+Views&color=6d23b6&style=for-the-badge" />
 
 </div>
 
@@ -80,7 +80,21 @@ Email      : sheeladattasandeep6@gmail.com
 
 ---
 
-## 📁 Projects — 13 Real-World Analytics Projects
+## 🤖 AI-Augmented Workflow
+
+> I use AI tools to work faster — not to replace thinking.
+
+| Tool | How I Use It |
+|------|-------------|
+| 🤖 ChatGPT / Claude | Query logic review, insight summarisation, report drafting |
+| 🛠️ GitHub Copilot | Code suggestions for Python and SQL scripting |
+| ⚡ AI-Assisted EDA | Pattern detection and anomaly flagging on large datasets |
+
+*Core analysis, business logic, and interpretation — always mine.*
+
+---
+
+## 📁 13 Real-World Analytics Projects
 
 ### 🏆 Flagship Projects
 
@@ -124,7 +138,7 @@ Email      : sheeladattasandeep6@gmail.com
 ### 📈 Regional Sales Performance Dashboard
 **Tools:** Power BI · Excel
 
-- 🗺️ Regional sales breakdown with drill-through
+- 🗺️ Regional revenue breakdown with drill-through
 - 📊 KPI tracking: revenue · targets · growth rate
 - 💡 Business intelligence for sales decision-making
 
@@ -134,7 +148,7 @@ Email      : sheeladattasandeep6@gmail.com
 ### 🛒 Zepto SQL Data Analysis
 **Tools:** SQL · MySQL · PostgreSQL
 
-- 🏪 E-commerce product & sales analysis
+- 🏪 E-commerce product and sales analysis
 - 🔎 Complex joins, aggregations, subqueries
 - 📦 Inventory and category performance insights
 
@@ -147,8 +161,8 @@ Email      : sheeladattasandeep6@gmail.com
 **Tools:** SQL · Power BI · Python
 
 - 📋 Campus placement data analysis
-- 📊 Trend analysis on placement rates by stream
-- 🔑 Key drivers of successful placements identified
+- 📊 Placement rate trends by stream and college
+- 🔑 Key success drivers identified
 
 </td>
 <td width="50%" valign="top">
@@ -185,8 +199,8 @@ Email      : sheeladattasandeep6@gmail.com
 ### 🏦 Bank Loan Risk Analysis
 **Tools:** Python · Pandas · NumPy
 
-- 📋 Historical loan data analysis
-- 🔍 Risk pattern and default probability modelling
+- 📋 Historical loan data — default probability modelling
+- 🔍 Risk pattern identification by borrower profile
 - 📈 Borrower segmentation by risk category
 
 </td>
@@ -202,11 +216,11 @@ Email      : sheeladattasandeep6@gmail.com
 <td width="50%" valign="top">
 
 ### 📞 Telco Customer Churn Analysis
-**Tools:** SQL Server · Python · Power BI · ChatGPT
+**Tools:** SQL Server · Python · Power BI
 
-- 📉 End-to-end churn analysis
-- 🔎 Identified high-risk customer segments
-- 🎯 Retention strategy recommendations
+- 📉 End-to-end churn analysis pipeline
+- 🔎 High-risk customer segment identification
+- 🎯 Retention strategy recommendations delivered
 
 </td>
 <td width="50%" valign="top">
@@ -215,7 +229,7 @@ Email      : sheeladattasandeep6@gmail.com
 **Tools:** SQL Server · Excel
 
 - 📋 **17,600+ survey responses · 21 departments**
-- 📉 Engagement gap analysis by department
+- 📉 Engagement gap analysis by department and role
 - 🔑 Top 3 low-satisfaction drivers identified
 
 </td>
@@ -234,8 +248,8 @@ Email      : sheeladattasandeep6@gmail.com
 **Tools:** Power BI · Excel
 
 - 📊 **11,076 rows · 53 columns**
-- 🏦 Bank of Baroda dataset
-- 🗺️ Transaction patterns by location & type
+- 🏦 Bank of Baroda real dataset
+- 🗺️ Transaction patterns by location and type
 
 </td>
 <td width="33%" valign="top">
@@ -254,7 +268,7 @@ Email      : sheeladattasandeep6@gmail.com
 **Tools:** Power BI · Excel
 
 - 🗺️ India state-wise crime data dashboard
-- 📊 Government dataset visualisation
+- 📊 Government open dataset visualisation
 - 🔍 Public safety trend analysis
 
 </td>
@@ -315,9 +329,9 @@ Email      : sheeladattasandeep6@gmail.com
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Analyst-Open-2ECC71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Business%20Analyst-Open-2ECC71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL%20Developer-Open-2ECC71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analyst-Open-00C851?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business%20Analyst-Open-00C851?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Developer-Open-00C851?style=for-the-badge" />
 
 <br/><br/>
 
@@ -334,5 +348,5 @@ Email      : sheeladattasandeep6@gmail.com
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:c0392b,70:6d23b6,100:1a0533&height=140&section=footer" />
 </div>
