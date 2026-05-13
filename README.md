@@ -112,6 +112,8 @@ Email      : sheeladattasandeep6@gmail.com
 - 🎯 Targeted retention strategy per segment
 - 📈 End-to-end: raw CSV → SQL → Python → dashboard
 
+[View Project →](https://github.com/sandeep-sandy123/RFM-Customer-Segmentation)
+
 </td>
 <td width="33%" valign="top">
 
@@ -124,6 +126,8 @@ Email      : sheeladattasandeep6@gmail.com
 - 🔍 **33% churn** identified → loyalty strategy
 - ⚙️ 12+ SQL queries with CTEs & Window Functions
 
+[View Project →](https://github.com/sandeep-sandy123)
+
 </td>
 <td width="33%" valign="top">
 
@@ -134,6 +138,8 @@ Email      : sheeladattasandeep6@gmail.com
 - 🚨 Fraud detection on imbalanced dataset
 - 📊 Feature-level anomaly identification
 - 🔎 Pattern analysis on structured financial data
+
+[View Project →](https://github.com/sandeep-sandy123)
 
 </td>
 </tr>
@@ -155,6 +161,8 @@ Email      : sheeladattasandeep6@gmail.com
 - 🎯 Retention recommendations per segment
 - ⚙️ SQL + Python + Power BI in one project
 
+[View Project →](https://github.com/sandeep-sandy123)
+
 </td>
 <td width="33%" valign="top">
 
@@ -165,6 +173,8 @@ Email      : sheeladattasandeep6@gmail.com
 - 🏦 Real **Bank of Baroda** dataset
 - 🗺️ Transaction patterns by location and type
 - 📉 Interactive drill-through dashboard
+
+[View Project →](https://github.com/sandeep-sandy123/ATM-Transaction-Analysis-PowerBI)
 
 </td>
 <td width="33%" valign="top">
@@ -177,6 +187,8 @@ Email      : sheeladattasandeep6@gmail.com
 - 🔑 Top 3 low-satisfaction drivers identified
 - 📊 Pivot-based HR stakeholder summary
 
+[View Project →](https://github.com/sandeep-sandy123)
+
 </td>
 </tr>
 </table>
@@ -188,7 +200,7 @@ Email      : sheeladattasandeep6@gmail.com
 | Role | Company | Duration | Key Achievement |
 |------|---------|----------|----------------|
 | 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 – Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
-| 🔐 Fraud Analyst | WNS Global Services | Apr 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
+| 🔐 Fraud Analyst | WNS Global Services | Mar 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
 
 ---
 
@@ -196,11 +208,11 @@ Email      : sheeladattasandeep6@gmail.com
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
 <img src="https://img.shields.io/badge/Accenture-Tech%20Consulting%20Simulation-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />
 <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/NSDC-Data%20Analytics%20Certification-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Simplilearn-Introduction%20to%20SQL-3A86FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HP%20LIFE-Data%20Science%20%26%20Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
 
 </div>
 
