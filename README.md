@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:6d23b6,60:c0392b,100:00d4ff&height=220&section=header&text=Sheela%20Datta%20Sandeep&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python%20%C2%B7%20Excel&descAlignY=58&descSize=19&descColor=e0f7fa&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;13+Real-World+Projects+%7C+541K%2B+Records+Processed;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;Immediate+Joiner+%7C+Open+to+Relocate+Anywhere+in+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;541K%2B+Records+%7C+284K%2B+Transactions+%7C+Real+Business+Data;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;Immediate+Joiner+%7C+Open+to+Relocate+Anywhere+in+India" alt="Typing SVG" />
 
 <br/>
 
@@ -30,14 +30,13 @@ Role       : Data Analyst
 Location   : Visakhapatnam, India
 Open To    : Anywhere in India | Remote Welcome
 Joining    : Immediate Joiner
-Education  : B.Sc. Computer Science - Aditya Degree College (2025)
+Education  : B.Sc. Computer Science — Aditya Degree College (2025)
 Experience : Fraud Analyst @ WNS Global Services
              Data Analyst Trainee @ Millennium Software Solutions
-Projects   : 13 Real-World Analytics Projects
 Email      : sheeladattasandeep6@gmail.com
 ```
 
-> *"I don't just analyse data - I translate numbers into decisions businesses can act on."*
+> *"I don't just analyse data — I translate numbers into decisions businesses can act on."*
 
 ---
 
@@ -82,7 +81,7 @@ Email      : sheeladattasandeep6@gmail.com
 
 ## 🤖 AI-Augmented Workflow
 
-> I use AI tools to work faster - not to replace thinking.
+> I use AI tools to work faster — not to replace thinking.
 
 | Tool | How I Use It |
 |------|-------------|
@@ -94,114 +93,47 @@ Email      : sheeladattasandeep6@gmail.com
 
 ---
 
-## 📁 13 Real-World Analytics Projects
+## 📁 Featured Projects
 
-### 🏆 Flagship Projects
+---
+
+### 🥇 Tier 1 — Flagship Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏪 Cafe CRM Dashboard
-**Tools:** SQL Server · Power BI · DAX · Excel
-
-- 📦 **394 orders · 15 customers · 3 months** live data
-- 💰 Tracked **₹4,86,900 revenue** end-to-end
-- 📊 6 KPI cards · 8 visuals · 7 DAX measures
-- 🔍 Identified **33% churn** → loyalty strategy proposed
-- ⚙️ 12+ SQL queries: CTEs, Window Functions, CASE WHEN
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 👥 RFM Customer Segmentation
 **Tools:** Python · SQL Server · Power BI
 
-- 🗃️ Processed **541,909 records** (UCI Retail dataset)
-- 👤 Segmented **4,338 customers**:
+- 🗃️ **541,909 records** processed
+- 👤 **4,338 customers** segmented:
   Champions · Loyal · At-Risk · Lost
 - 🎯 Targeted retention strategy per segment
 - 📈 End-to-end: raw CSV → SQL → Python → dashboard
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top">
 
----
+### 🏪 Cafe CRM Dashboard
+**Tools:** SQL Server · Power BI · DAX · Excel
 
-### 📊 Business & Sales Analytics
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Regional Sales Performance Dashboard
-**Tools:** Power BI · Excel
-
-- 🗺️ Regional revenue breakdown with drill-through
-- 📊 KPI tracking: revenue · targets · growth rate
-- 💡 Business intelligence for sales decision-making
+- 📦 **394 orders · 15 customers** · live data
+- 💰 **₹4,86,900 revenue** tracked end-to-end
+- 📊 6 KPI cards · 8 visuals · 7 DAX measures
+- 🔍 **33% churn** identified → loyalty strategy
+- ⚙️ 12+ SQL queries with CTEs & Window Functions
 
 </td>
-<td width="50%" valign="top">
-
-### 🛒 Zepto SQL Data Analysis
-**Tools:** SQL · MySQL · PostgreSQL
-
-- 🏪 E-commerce product and sales analysis
-- 🔎 Complex joins, aggregations, subqueries
-- 📦 Inventory and category performance insights
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Job Placement Analysis
-**Tools:** SQL · Power BI · Python
-
-- 📋 Campus placement data analysis
-- 📊 Placement rate trends by stream and college
-- 🔑 Key success drivers identified
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ Weather Data Analysis Dashboard
-**Tools:** Power BI · API Integration
-
-- 🌍 Real-time weather data via API
-- 📉 Trend analysis and pattern recognition
-- 📊 Interactive Power BI dashboard
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔐 Fraud & Risk Analytics
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 💳 Credit Card Fraud Detection
 **Tools:** Python · Pandas · NumPy · SQL Server · Power BI
 
-- 💳 Analysed **284,807 transactions**
-- 🚨 Fraud pattern detection on imbalanced dataset
+- 💳 **284,807 transactions** analysed
+- 🚨 Fraud detection on imbalanced dataset
 - 📊 Feature-level anomaly identification
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Bank Loan Risk Analysis
-**Tools:** Python · Pandas · NumPy
-
-- 📋 Historical loan data — default probability modelling
-- 🔍 Risk pattern identification by borrower profile
-- 📈 Borrower segmentation by risk category
+- 🔎 Pattern analysis on structured financial data
 
 </td>
 </tr>
@@ -209,67 +141,41 @@ Email      : sheeladattasandeep6@gmail.com
 
 ---
 
-### 👥 Customer & HR Analytics
+### 🥈 Tier 2 — Supporting Evidence
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 📞 Telco Customer Churn Analysis
 **Tools:** SQL Server · Python · Power BI
 
-- 📉 End-to-end churn analysis pipeline
+- 📉 Full-stack churn analysis pipeline
 - 🔎 High-risk customer segment identification
-- 🎯 Retention strategy recommendations delivered
+- 🎯 Retention recommendations per segment
+- ⚙️ SQL + Python + Power BI in one project
 
 </td>
-<td width="50%" valign="top">
-
-### 🏢 HR Employee Survey Analysis
-**Tools:** SQL Server · Excel
-
-- 📋 **17,600+ survey responses · 21 departments**
-- 📉 Engagement gap analysis by department and role
-- 🔑 Top 3 low-satisfaction drivers identified
-
-</td>
-</tr>
-</table>
-
----
-
-### 📉 Public Data Dashboards
-
-<table>
-<tr>
 <td width="33%" valign="top">
 
 ### 🏧 ATM Transaction Analysis
 **Tools:** Power BI · Excel
 
 - 📊 **11,076 rows · 53 columns**
-- 🏦 Bank of Baroda real dataset
+- 🏦 Real **Bank of Baroda** dataset
 - 🗺️ Transaction patterns by location and type
+- 📉 Interactive drill-through dashboard
 
 </td>
 <td width="33%" valign="top">
 
-### 🎬 Netflix Content Analysis
-**Tools:** SQL · PostgreSQL
+### 🏢 HR Employee Survey Analysis
+**Tools:** SQL Server · Excel
 
-- 🎥 **8,800+ records** analysed
-- 📌 Genre · Country · Year trends
-- 🔎 Window functions for pattern detection
-
-</td>
-<td width="33%" valign="top">
-
-### 🚔 Crime Data Analysis — India
-**Tools:** Power BI · Excel
-
-- 🗺️ India state-wise crime data dashboard
-- 📊 Government open dataset visualisation
-- 🔍 Public safety trend analysis
+- 📋 **17,600+ responses · 21 departments**
+- 📉 Engagement gap analysis by department
+- 🔑 Top 3 low-satisfaction drivers identified
+- 📊 Pivot-based HR stakeholder summary
 
 </td>
 </tr>
@@ -281,7 +187,7 @@ Email      : sheeladattasandeep6@gmail.com
 
 | Role | Company | Duration | Key Achievement |
 |------|---------|----------|----------------|
-| 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 - Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
+| 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 – Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
 | 🔐 Fraud Analyst | WNS Global Services | Apr 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
 
 ---
