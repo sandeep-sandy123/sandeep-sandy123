@@ -207,7 +207,8 @@ Email      : sheeladattasandeep6@gmail.com
 ## 🏅 Certifications
 
 <div align="center">
-
+  
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
 <img src="https://img.shields.io/badge/Accenture-Tech%20Consulting%20Simulation-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />
 <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/NSDC-Data%20Analytics%20Certification-FF6B35?style=for-the-badge" />
