@@ -200,7 +200,7 @@ Email      : sheeladattasandeep6@gmail.com
 | Role | Company | Duration | Key Achievement |
 |------|---------|----------|----------------|
 | 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 – Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
-| 🔐 Fraud Analyst | WNS Global Services | Mar 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
+| 🔐 Fraud Analyst | WNS Global Services | Apr 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
 
 ---
 
