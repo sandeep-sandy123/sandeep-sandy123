@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sheela%20Datta%20Sandeep&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python%20%C2%B7%20Excel&descAlignY=58&descSize=18&descColor=a0c4d8&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2C8&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;541K%2B+Records+Processed+%7C+Real-World+Projects;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;Immediate+Joiner+%7C+Open+to+Relocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2C8&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;13+Real-World+Projects+%7C+541K%2B+Records+Processed;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+DAX;Immediate+Joiner+%7C+Open+to+Relocate+Anywhere+in+India" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Actively%20Hiring-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=sandeep-sandy123&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
@@ -28,11 +28,12 @@
 Name       : Sheela Datta Sandeep
 Role       : Data Analyst
 Location   : Visakhapatnam, India
-Open To    : Hyderabad | Bengaluru | Chennai | Gurgaon
+Open To    : Anywhere in India | Remote Welcome
 Joining    : Immediate Joiner
 Education  : B.Sc. Computer Science — Aditya Degree College (2025)
 Experience : Fraud Analyst @ WNS Global Services
              Data Analyst Trainee @ Millennium Software Solutions
+Projects   : 13 Real-World Analytics Projects
 Email      : sheeladattasandeep6@gmail.com
 ```
 
@@ -73,24 +74,27 @@ Email      : sheeladattasandeep6@gmail.com
 ![CTEs](https://img.shields.io/badge/-CTEs-023E8A?style=flat-square)
 ![Window Functions](https://img.shields.io/badge/-Window%20Functions-0077B6?style=flat-square)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2A9D8F?style=flat-square)
+![Customer Segmentation](https://img.shields.io/badge/-Customer%20Segmentation-8B5CF6?style=flat-square)
 
 </div>
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects — 13 Real-World Analytics Projects
+
+### 🏆 Flagship Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏪 V Hangout Cafe — CRM Dashboard
+### 🏪 Cafe CRM Dashboard
 **Tools:** SQL Server · Power BI · DAX · Excel
 
 - 📦 **394 orders · 15 customers · 3 months** live data
 - 💰 Tracked **₹4,86,900 revenue** end-to-end
-- 📊 **6 KPIs · 8 visuals · 7 DAX measures**
-- 🔍 Identified **33% churn** → proposed loyalty strategy
+- 📊 6 KPI cards · 8 visuals · 7 DAX measures
+- 🔍 Identified **33% churn** → loyalty strategy proposed
 - ⚙️ 12+ SQL queries: CTEs, Window Functions, CASE WHEN
 
 </td>
@@ -103,54 +107,155 @@ Email      : sheeladattasandeep6@gmail.com
 - 👤 Segmented **4,338 customers**:
   Champions · Loyal · At-Risk · Lost
 - 🎯 Targeted retention strategy per segment
-- 📈 End-to-end: raw data → SQL → Python → dashboard
+- 📈 End-to-end: raw CSV → SQL → Python → dashboard
 
 </td>
 </tr>
+</table>
+
+---
+
+### 📊 Business & Sales Analytics
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏧 ATM Transaction Analysis
+### 📈 Regional Sales Performance Dashboard
 **Tools:** Power BI · Excel
 
-- 📊 Analysed **11,076 rows · 53 columns**
-- 🏦 Bank of Baroda real dataset
-- 🗺️ Transaction pattern analysis by location & type
-- 📉 Interactive Power BI dashboard with drill-through
+- 🗺️ Regional sales breakdown with drill-through
+- 📊 KPI tracking: revenue · targets · growth rate
+- 💡 Business intelligence for sales decision-making
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Netflix Content Trend Analysis
-**Tools:** SQL · Excel
+### 🛒 Zepto SQL Data Analysis
+**Tools:** SQL · MySQL · PostgreSQL
 
-- 🎥 **8,800+ records** analysed
-- 📌 Genre · Country · Year breakdown
-- 💡 Business insights on content distribution strategy
-- 🔎 Window functions for trend detection
+- 🏪 E-commerce product & sales analysis
+- 🔎 Complex joins, aggregations, subqueries
+- 📦 Inventory and category performance insights
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🎓 Job Placement Analysis
+**Tools:** SQL · Power BI · Python
+
+- 📋 Campus placement data analysis
+- 📊 Trend analysis on placement rates by stream
+- 🔑 Key drivers of successful placements identified
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Data Analysis Dashboard
+**Tools:** Power BI · API Integration
+
+- 🌍 Real-time weather data via API
+- 📉 Trend analysis and pattern recognition
+- 📊 Interactive Power BI dashboard
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔐 Fraud & Risk Analytics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Credit Card Fraud Detection
+**Tools:** Python · Pandas · NumPy · SQL Server · Power BI
+
+- 💳 Analysed **284,807 transactions**
+- 🚨 Fraud pattern detection on imbalanced dataset
+- 📊 Feature-level anomaly identification
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Bank Loan Risk Analysis
+**Tools:** Python · Pandas · NumPy
+
+- 📋 Historical loan data analysis
+- 🔍 Risk pattern and default probability modelling
+- 📈 Borrower segmentation by risk category
+
+</td>
+</tr>
+</table>
+
+---
+
+### 👥 Customer & HR Analytics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📞 Telco Customer Churn Analysis
+**Tools:** SQL Server · Python · Power BI · ChatGPT
+
+- 📉 End-to-end churn analysis
+- 🔎 Identified high-risk customer segments
+- 🎯 Retention strategy recommendations
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏢 HR Employee Survey Analysis
 **Tools:** SQL Server · Excel
 
 - 📋 **17,600+ survey responses · 21 departments**
-- 📉 Engagement gap analysis by department and role
-- 🔑 Identified top 3 drivers of low satisfaction
-- 📊 Pivot-based summary for HR stakeholders
+- 📉 Engagement gap analysis by department
+- 🔑 Top 3 low-satisfaction drivers identified
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🔐 Credit Card Fraud Detection
-**Tools:** Python · Pandas · NumPy
+---
 
-- 💳 Analysed **284,000+ transactions**
-- 🚨 Fraud pattern detection on imbalanced dataset
-- 📊 Feature-level analysis for anomaly identification
+### 📉 Public Data Dashboards
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏧 ATM Transaction Analysis
+**Tools:** Power BI · Excel
+
+- 📊 **11,076 rows · 53 columns**
+- 🏦 Bank of Baroda dataset
+- 🗺️ Transaction patterns by location & type
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 Netflix Content Analysis
+**Tools:** SQL · PostgreSQL
+
+- 🎥 **8,800+ records** analysed
+- 📌 Genre · Country · Year trends
+- 🔎 Window functions for pattern detection
+
+</td>
+<td width="33%" valign="top">
+
+### 🚔 Crime Data Analysis — India
+**Tools:** Power BI · Excel
+
+- 🗺️ India state-wise crime data dashboard
+- 📊 Government dataset visualisation
+- 🔍 Public safety trend analysis
 
 </td>
 </tr>
@@ -162,8 +267,8 @@ Email      : sheeladattasandeep6@gmail.com
 
 | Role | Company | Duration | Key Achievement |
 |------|---------|----------|----------------|
-| 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 – Feb 2026 | Built live CRM dashboard tracking ₹4.8L+ revenue |
-| 🔐 Fraud Analyst | WNS Global Services | Apr 2025 – Jun 2025 | 88% fraud detection accuracy across 5,000+ monthly cases |
+| 📊 Data Analyst Trainee | Millennium Software Solutions | Aug 2025 – Feb 2026 | Live CRM dashboard · ₹4.8L revenue tracked |
+| 🔐 Fraud Analyst | WNS Global Services | Apr 2025 – Jun 2025 | 88% accuracy · 5,000+ monthly cases |
 
 ---
 
@@ -200,7 +305,7 @@ Email      : sheeladattasandeep6@gmail.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sandeep-sandy123&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sandeep-sandy123&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -216,7 +321,7 @@ Email      : sheeladattasandeep6@gmail.com
 
 <br/><br/>
 
-**📍 Hyderabad &nbsp;|&nbsp; Bengaluru &nbsp;|&nbsp; Chennai &nbsp;|&nbsp; Gurgaon &nbsp;|&nbsp; Remote**
+**🌍 Open to Relocate Anywhere in India &nbsp;|&nbsp; Remote Welcome**
 
 <br/>
 
