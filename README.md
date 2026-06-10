@@ -27,13 +27,13 @@
 ```yaml
 Name       : Sheela Datta Sandeep
 Role       : Data Analyst
-Location   : Visakhapatnam, India
+Location   : Hyderabad, India
 Open To    : Anywhere in India | Remote Welcome
 Joining    : Immediate Joiner
 Education  : B.Sc. Computer Science — Aditya Degree College (2025)
 Experience : Fraud Analyst @ WNS Global Services
              Data Analyst Trainee @ Millennium Software Solutions
-Email      : sheeladattasandeep6@gmail.com
+Email      : sheeladattasandeep6@gmail.com , sheeladattasandeep5@gmail.com
 ```
 
 > *"I don't just analyse data — I translate numbers into decisions businesses can act on."*
