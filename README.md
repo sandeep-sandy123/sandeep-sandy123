@@ -34,6 +34,10 @@ I enjoy solving business problems through data analytics, creating interactive d
 
 🌍 Open to Relocate Across India
 
+---
+
+# 🚀 Technical Skills
+
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
@@ -45,17 +49,6 @@ I enjoy solving business problems through data analytics, creating interactive d
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=36BCF7&center=true&width=800&lines=SQL+Server;Power+BI;Python+Pandas;Excel;Business+Intelligence;Data+Visualization;Dashboard+Development"/>
 
 </p>
----
-
-# 🚀 Technical Skills
-
-<div align="center">
-
-### Languages & Databases
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
