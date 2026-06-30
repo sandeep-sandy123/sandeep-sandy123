@@ -193,15 +193,19 @@ https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics
 
 ---
 
-# 📜 Certifications
+# # 📜 Certifications
 
-🏆 Deloitte Data Analytics Job Simulation
+🏆 **GenAI Powered Data Analytics – Tata via Forage** ⭐
 
-🏆 IBM Data Analysis with Python
+🏆 Deloitte Data Analytics Job Simulation – Forage
 
-🏆 Accenture Technology Consulting
+🏆 Accenture Technology Consulting Job Simulation – Forage
+
+🏆 IBM Data Analysis with Python – Coursera
 
 🏆 NSDC Data Analytics Certification
+
+🏆 Simplilearn – Introduction to SQL
 
 ---
 
