@@ -185,7 +185,7 @@ https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics
 
 ### 📈 Executive Overview
 
-<img src="./Images/Dashboard_Page1.png" width="90%"/>
+[<img src="./Images/Dashboard_Page1.png" width="90%"/>](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page1.png)
 
 <br><br>
 
