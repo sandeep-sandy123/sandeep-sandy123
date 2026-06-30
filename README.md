@@ -263,10 +263,14 @@ https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics
 
 <div align="center">
 
-### ⭐ Thank you for visiting my GitHub Profile!
+### ⭐ Thanks for visiting my profile!
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+📊 Data Analyst | SQL | Power BI | Python | Excel
+
+📍 Hyderabad, India
+
+🚀 Immediate Joiner
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3c72,50:2a5298,100:00c6ff"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F2027,50:203A43,100:2C5364"/>
