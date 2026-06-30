@@ -179,15 +179,25 @@ https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics
 
 ---
 
-# 📊 Dashboard Gallery
+# # 📊 Dashboard Gallery
 
 <div align="center">
 
-<img width="32%" src="Images/Dashboard_Page1.png"/>
+### 📈 Executive Overview
 
-<img width="32%" src="Images/Dashboard_Page2.png"/>
+<img src="./Images/Dashboard_Page1.png" width="90%"/>
 
-<img width="32%" src="Images/Dashboard_Page3.png"/>
+<br><br>
+
+### 📊 Sales & Customer Analysis
+
+<img src="./Images/Dashboard_Page2.png" width="90%"/>
+
+<br><br>
+
+### ⛽ E20 Fuel Adoption Analytics
+
+<img src="./Images/Dashboard_Page3.png" width="90%"/>
 
 </div>
 
