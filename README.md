@@ -1,17 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Sheela Datta Sandeep
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3c72,50:2a5298,100:00c6ff&text=Sheela%20Datta%20Sandeep&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Excel&descAlignY=58&descSize=22"/>
 
-### 📊 Data Analyst | SQL | Power BI | Python | Excel
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Transforming+Data+Into+Business+Insights;Building+Interactive+Power+BI+Dashboards;SQL+%7C+Python+%7C+Excel+%7C+Business+Intelligence;Immediate+Joiner+%7C+Open+to+Work"/>
 
-Transforming raw data into actionable business insights through analytics, dashboards, and visualization.
+<br>
 
-📍 Hyderabad, India  
-🚀 Immediate Joiner | Open to Relocate Across India
+<a href="https://www.linkedin.com/in/sheela-dattasandeep-1b718a326">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheela-dattasandeep-1b718a326/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheeladattasandeep5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep-sandy123)
+<a href="mailto:sheeladattasandeep5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=sandeep-sandy123&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -19,54 +24,79 @@ Transforming raw data into actionable business insights through analytics, dashb
 
 # 👨‍💻 About Me
 
-I am a Data Analyst passionate about transforming raw data into meaningful business insights.
+Hi 👋
 
-I enjoy solving business problems using SQL, Python, Excel, and Power BI by building dashboards that support better decision-making.
+I'm **Sheela Datta Sandeep**, a Data Analyst passionate about transforming raw business data into actionable insights.
 
-Currently looking for opportunities as a:
+I enjoy building end-to-end analytics solutions using SQL, Python, Excel, and Power BI.
 
-- 📊 Data Analyst
-- 📈 Business Analyst
-- 📉 BI Analyst
+📍 Hyderabad, India
 
----
+🚀 Immediate Joiner
 
-# 🛠 Technical Skills
-
-| Category | Skills |
-|-----------|---------|
-| SQL | SQL Server, MySQL, JOINs, CTEs, GROUP BY, HAVING, CASE |
-| Python | Pandas, NumPy |
-| BI Tools | Power BI, Power Query, DAX |
-| Excel | Pivot Tables, Power Query, Dashboards, Charts |
-| Analytics | Data Cleaning, EDA, KPI Reporting, Trend Analysis, Correlation Analysis |
-| AI Tools | ChatGPT, Microsoft Copilot, Codex |
+🌍 Open to Relocate Across India
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Technical Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 Featured Projects
 
 ## ⛽ Indian Fuel Sales & E20 Analytics Dashboard
 
-### Tools
+### Built Using
 
 SQL Server • Python • Excel • Power BI
 
-### Highlights
+### Project Highlights
 
-✔ Connected 4 business datasets
+✔ Business Problem Solving
 
-✔ Solved 19 SQL business questions
+✔ SQL JOINs
 
-✔ SQL JOINs & CTEs
+✔ CTEs
 
-✔ Data Cleaning using Python (Pandas)
+✔ GROUP BY
+
+✔ HAVING
+
+✔ CASE Statements
+
+✔ Python Data Cleaning
+
+✔ Trend Analysis
+
+✔ Correlation Analysis
 
 ✔ Excel Dashboard
 
-✔ Three-page Power BI Dashboard
+✔ Power BI Dashboard
 
 ✔ Executive KPI Reporting
+
+### Dashboard Preview
+
+> Replace this with your dashboard screenshot
+
+![Dashboard](Images/Dashboard_Page1.png)
 
 🔗 Repository
 
@@ -76,107 +106,98 @@ https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics
 
 ## ☕ V Hangout Cafe CRM Dashboard
 
-### Tools
+Built using SQL Server, Power BI, Excel
 
-SQL Server • Excel • Power BI
+✔ ₹4.86L Revenue
 
-### Highlights
+✔ Customer Retention
 
-✔ ₹4.86 Lakh Revenue Analysis
-
-✔ Customer Retention Analysis
-
-✔ Customer Conversion Analysis
+✔ Conversion Analysis
 
 ✔ KPI Dashboard
-
-✔ Interactive Reports
 
 ---
 
 # 💼 Experience
 
-## Data Analyst Trainee
+### 📊 Data Analyst Trainee
 
 Millennium Software Solutions
 
-**Aug 2025 – Feb 2026**
-
-- Built interactive Power BI dashboards
-- Developed SQL queries for business reporting
-- Automated reporting using AI-assisted analytics
-- Performed data cleaning and business analysis
+- SQL Reporting
+- Dashboard Development
+- KPI Reporting
+- Business Analytics
 
 ---
 
-## Fraud Analyst
+### 🔐 Fraud Analyst
 
 WNS Global Services
 
-**Apr 2025 – Jun 2025**
-
-- Reviewed 150+ identity verification cases daily
-- Achieved 88% fraud detection accuracy
-- Investigated fraud patterns across 5,000+ monthly cases
-
----
-
-# 📜 Certifications
-
-- Deloitte Data Analytics Job Simulation (Forage)
-- Accenture Technology Consulting Job Simulation (Forage)
-- IBM Data Analysis with Python (Coursera)
-- NSDC Data Analytics Certification
+- Fraud Investigation
+- Identity Verification
+- Risk Analysis
+- SLA Compliance
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep-sandy123&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandeep-sandy123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-sandy123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-sandy123&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep-sandy123&theme=tokyo-night"/>
 
-</p>
-
----
-
-# 📈 Currently Learning
-
-- Advanced SQL
-- Advanced Power BI
-- Data Modeling
-- DAX Optimization
+</div>
 
 ---
 
-# 🎯 Career Objective
+# 🎓 Certifications
 
-Seeking an opportunity where I can apply my SQL, Power BI, Python, and Excel skills to solve real-world business problems and contribute to data-driven decision-making.
+🏆 Deloitte Data Analytics Job Simulation
+
+🏆 IBM Data Analysis with Python
+
+🏆 Accenture Technology Consulting
+
+🏆 NSDC Data Analytics Certification
 
 ---
 
-# 📬 Let's Connect
+# 🎯 Currently Learning
 
-📧 Email
+📚 Advanced SQL
 
-**sheeladattasandeep5@gmail.com**
+📚 Power BI
 
-🔗 LinkedIn
+📚 DAX
 
-https://www.linkedin.com/in/sheela-dattasandeep-1b718a326/
+📚 Data Modeling
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+📧 **sheeladattasandeep5@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/sheela-dattasandeep-1b718a326
 
 💻 GitHub
 
 https://github.com/sandeep-sandy123
 
-📍 Hyderabad, India
+⭐ If you like my work, feel free to connect!
 
-🚀 Immediate Joiner | Open to Relocate
+</div>
 
----
-
-⭐ Thank you for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00c6ff,50:2a5298,100:1e3c72"/>
