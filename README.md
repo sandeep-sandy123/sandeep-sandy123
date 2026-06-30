@@ -125,7 +125,7 @@ I enjoy solving business problems through data analytics, creating interactive d
 > Replace with your screenshot
 
 ```text
-Images/Dashboard_Page1.png
+[Images/Dashboard_Page1.png](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page1.png)
 ```
 
 🔗 Repository
