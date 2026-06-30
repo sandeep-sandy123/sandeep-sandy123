@@ -34,6 +34,17 @@ I enjoy solving business problems through data analytics, creating interactive d
 
 🌍 Open to Relocate Across India
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=36BCF7&center=true&width=800&lines=SQL+Server;Power+BI;Python+Pandas;Excel;Business+Intelligence;Data+Visualization;Dashboard+Development"/>
+
+</p>
 ---
 
 # 🚀 Technical Skills
@@ -125,7 +136,7 @@ I enjoy solving business problems through data analytics, creating interactive d
 > Replace with your screenshot
 
 ```text
-[Images/Dashboard_Page1.png](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page1.png)
+<img src="./Images/Dashboard_Page1.png" width="90%"/> 
 ```
 
 🔗 Repository
