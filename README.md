@@ -107,7 +107,7 @@ End-to-end BI solution across 80 clients, 220 projects, 45 employees, 709 assign
 
 `102 projects completed` `25.2% cost variance ↓` `4.05/5 CSAT`
 
-🔗 [*[Add repository link]*](https://github.com/sandeep-sandy123/IT-Services-Business-Intelligence-AI-Assisted-Analytics-Dashboard)
+🔗 [*[View repository ]*](https://github.com/sandeep-sandy123/IT-Services-Business-Intelligence-AI-Assisted-Analytics-Dashboard)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +119,7 @@ End-to-end BI solution across 80 clients, 220 projects, 45 employees, 709 assign
 
 `394 orders` `₹4.86L revenue` `95% conversion` `66.7% retention`
 
-🔗 *[Add repository link]*
+🔗 [*[View repository]*](https://github.com/sandeep-sandy123/cafe-crm-dashboard)
 
 </td>
 </tr>
