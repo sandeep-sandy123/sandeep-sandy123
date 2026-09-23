@@ -52,11 +52,13 @@ I turn raw, messy business data into KPI-driven dashboards and clear decisions �
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-**SQL & Databases:** SQL, SQL Server, MySQL, JOINs, CTEs, Views, Aggregate & Window Functions
-**Python:** Pandas, NumPy, Exploratory Data Analysis
-**BI & Reporting:** Power BI, DAX, Power Query, Data Modelling, KPI Reporting, Dashboard Development
-**Excel:** Pivot Tables/Charts, XLOOKUP, VLOOKUP, INDEX-MATCH, Data Validation, Macros, VBA
-**Analytics:** Data Cleaning, Data Transformation, Data Validation, Statistical & Trend Analysis, ETL Concepts, Automation
+<table>
+<tr><td valign="top"><b>🗄️ SQL & Databases</b></td><td>SQL, SQL Server, MySQL, JOINs, CTEs, Views, Window Functions</td></tr>
+<tr><td valign="top"><b>🐍 Python</b></td><td>Pandas, NumPy, Exploratory Data Analysis</td></tr>
+<tr><td valign="top"><b>📊 BI & Reporting</b></td><td>Power BI, DAX, Power Query, Data Modelling, KPI Dashboards</td></tr>
+<tr><td valign="top"><b>📈 Excel</b></td><td>Pivot Tables/Charts, XLOOKUP, INDEX-MATCH, Macros, VBA</td></tr>
+<tr><td valign="top"><b>🔍 Analytics</b></td><td>Data Cleaning, Validation, Statistical & Trend Analysis, ETL, Automation</td></tr>
+</table>
 
 ---
 
@@ -94,48 +96,49 @@ I turn raw, messy business data into KPI-driven dashboards and clear decisions �
 
 # 📂 Featured Projects
 
-## 🏢 IT Services BI & AI-Assisted Analytics Dashboard
-**Power BI • SQL Server • Power Query • DAX • Excel**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- End-to-end BI solution on structured IT services data (80 clients, 220 projects, 45 employees, 709 assignments, 446 invoices)
-- SQL/DAX KPIs for completion rate & budget variance → 102 completed projects, 25.2% favorable cost variance
+### 🏢 IT Services BI Dashboard
+**Power BI • SQL Server • Power Query • DAX**
 
-🔗 *Add repository link*
+End-to-end BI solution across 80 clients, 220 projects, 45 employees, 709 assignments, 446 invoices.
 
----
+`102 projects completed` `25.2% cost variance ↓` `4.05/5 CSAT`
 
-## ☕ V Hangout Cafe — CRM & Sales Analytics Dashboard
+🔗 *[Add repository link]*
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ V Hangout Cafe — CRM Analytics
 **SQL Server • Power BI • Excel • DAX**
 
-- 25+ SQL queries to extract, clean, transform, and organize customer/sales data
-- Power BI dashboard tracking revenue, retention, conversion, and churn
-- **394 customer orders, ~₹4.86L revenue, 95% conversion, 66.7% retention**
+25+ SQL queries powering a dashboard on revenue, retention, conversion, and churn.
 
-🔗 *Add repository link*
+`394 orders` `₹4.86L revenue` `95% conversion` `66.7% retention`
 
----
+🔗 *[Add repository link]*
 
-## ⛽ Indian Fuel Sales & E20 Analytics Dashboard
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛽ Fuel Sales & E20 Analytics
 **SQL Server • Python • Excel • Power BI**
 
-- SQL JOINs, CTEs, GROUP BY, HAVING, CASE statements on 10,000+ records
-- Python data cleaning, trend & correlation analysis; 3-page Power BI dashboard
+SQL + Python cleaning and trend/correlation analysis on 10,000+ records; 3-page Power BI dashboard.
 
-🔗 https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics
+🔗 [View Repository](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏦 ATM Transaction Dashboard
-**Power BI • Excel** — Banking transaction analysis, interactive dashboard, KPI reporting, trend analysis
-🔗 *Add repository link*
-
-## 📘 SQL Business Questions Repository
-SQL practice: JOINs, CTEs, GROUP BY, HAVING on business questions
-🔗 *Add repository link*
-
-## 🐍 Python Data Analytics
-Pandas • NumPy • Data cleaning • EDA • Correlation & trend analysis
-🔗 *Add repository link*
+</td>
+</tr>
+</table>
 
 ---
 
@@ -169,12 +172,6 @@ Pandas • NumPy • Data cleaning • EDA • Correlation & trend analysis
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep-sandy123&theme=tokyo-night"/>
 </div>
-
----
-
-# 🎯 Currently Learning
-
-Advanced SQL • Advanced Power BI • Data Modeling • Python for Analytics
 
 ---
 
